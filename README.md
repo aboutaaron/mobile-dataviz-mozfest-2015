@@ -14,8 +14,9 @@ It’s time we treat the mobile web as first class and desktop experiences as se
 3. Draft an interaction using paper prototypes
 
 
-## Articles
-https://www.journalism.co.uk/news/how-the-wall-street-journal-approaches-data-interactives-on-mobile/s2/a574385/
+## Some reading/resources
+- [How The Wall Street Journal creates mobile-friendly interactives](https://www.journalism.co.uk/news/how-the-wall-street-journal-approaches-data-interactives-on-mobile/s2/a574385/) [Article]
+- [Data Viz for All | Mobile documentation](https://github.com/julia67/data-viz-for-all/tree/master/Mobile) [Repo]
 
 ### Examples
 
