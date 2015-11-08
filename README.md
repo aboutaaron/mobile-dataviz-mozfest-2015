@@ -46,4 +46,4 @@ More reading: http://spyrestudios.com/light-app-development-indicative-of-chinas
 
 
 ## Contribute
-Have ideas for mobile data viz? Add an issue! I hope this repo provides ideas for building fantastic mobile-first data visualizations.
+Have ideas for mobile data viz? [Add an issue!](https://github.com/aboutaaron/mobile-dataviz-mozfest-2015/issues) I hope this repo provides ideas for building fantastic mobile-first data visualizations.
