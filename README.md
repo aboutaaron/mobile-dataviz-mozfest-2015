@@ -43,3 +43,7 @@ More reading: http://spyrestudios.com/light-app-development-indicative-of-chinas
 - http://image.thepaper.cn/html/zt/2014/ynhx/index.html
 - http://news.qq.com/zt2014/look/index.htm
 - http://www.liveapp.cn/HTML/dev_mi/index.html
+
+
+## Contribute
+Have ideas for mobile data viz? Add an issue! I hope this repo provides ideas for building fantastic mobile-first data visualizations.
